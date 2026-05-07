@@ -32,8 +32,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,excel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 <br><br>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
