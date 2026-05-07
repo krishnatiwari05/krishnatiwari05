@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,excel,power BI" />
 
 <br><br>
 
