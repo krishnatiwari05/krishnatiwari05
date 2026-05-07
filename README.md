@@ -16,7 +16,7 @@
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNkN2ZrM2Y5eGRlN3NzMXQ0ZnA5eDhsOXJxZ2xwZG11MXh6eG9sYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif"/>
+<img align="right" alt="Coding" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNkN2ZrM2Y5eGRlN3NzMXQ0ZnA5eDhsOXJxZ2xwZG11MXh6eG9sYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif"/>
 
 ✨ Passionate about analyzing data and finding meaningful insights  
 
