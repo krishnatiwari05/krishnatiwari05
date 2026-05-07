@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Pal</h1>
+<h1 align="center">Hi 👋, I'm Krishna Tiwari</h1>
 <h3 align="center">📊 Data Analyst | SQL • Excel • Python • Power BI</h3>
 
 <p align="center">
