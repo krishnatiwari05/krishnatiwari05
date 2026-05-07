@@ -32,11 +32,7 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
 <br><br>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
