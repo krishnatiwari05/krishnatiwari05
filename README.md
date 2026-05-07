@@ -16,7 +16,9 @@
 
 # 🚀 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNkN2ZrM2Y5eGRlN3NzMXQ0ZnA5eDhsOXJxZ2xwZG11MXh6eG9sYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
+<table>
+<tr>
+<td width="60%">
 
 ✨ Passionate about analyzing data and finding meaningful insights  
 📊 Skilled in creating interactive dashboards and reports  
@@ -24,8 +26,15 @@
 🧠 Learning advanced analytics & machine learning  
 ⚡ Love transforming raw data into business decisions  
 
-<br><br>
+</td>
 
+<td width="40%">
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNkN2ZrM2Y5eGRlN3NzMXQ0ZnA5eDhsOXJxZ2xwZG11MXh6eG9sYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
+
+</td>
+</tr>
+</table>
 ---
 
 # 🛠️ Tech Stack
