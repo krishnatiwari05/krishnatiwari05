@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Sachin%20Pal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Krishna%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 <h1>📊 DATA ANALYST • SQL • PYTHON • POWER BI</h1>
 
